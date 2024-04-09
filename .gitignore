@@ -1,0 +1,36 @@
+# Archivos binarios y ejecutables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Directorio de dependencias
+/vendor/
+
+# Directorio de archivos temporales generados por la compilación
+/.tmp/
+/build/
+
+# Directorio de archivos temporales generados por IDEs o editores
+.idea/
+.vscode/
+
+# Archivo de configuración local
+*.env
+
+# Archivos de respaldo y temporales
+*~
+*.bak
+*.swp
+
+# Archivos de registro y caché
+/logs/
+/cache/
+
+# Archivos de configuración de usuario
+*.iml
+*.log
+
+# Archivo de bloqueo
+.lock
